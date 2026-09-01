@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow manual workflow runs
+  workflow_dispatch:
+  # Run on pushes to the main branch
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You must create a Personal Access Token with the 'public_repo' scope
+          # and save it in your repository secrets as METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # GitHub username
+          user: ca-santos
+          
+          # Template and base configuration
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Set to your local timezone
+          config_timezone: America/Sao_Paulo
