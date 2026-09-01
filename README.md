@@ -16,10 +16,3 @@ My name is Cauê and I'm a Senior Full Stack Software Engineer from 🇧🇷 Bra
     <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,vue,ts,mysql,redis,docker" alt="My Skills" />
   </a>
 </p>
-
----
-
-## GitHub Metrics
-
-<!-- This SVG is generated automatically by lowlighter/metrics via GitHub Actions -->
-<img src="https://raw.githubusercontent.com/ca-santos/ca-santos/main/github-metrics.svg" alt="Metrics" width="100%">
