@@ -1,60 +1,25 @@
-# Cauê Santos
+# Hey 👋 What's up?
 
-### Senior Full Stack Software Engineer
+My name is Cauê and I'm a Senior Full Stack Software Engineer from 🇧🇷 Brazil.
 
-Building and modernizing web applications with **Laravel, .NET, and Vue.js**.
+## About me
 
-10+ years of experience working across the stack, from backend architecture and APIs to modern frontend applications and databases.
+* 💻 Building and modernizing web applications with Laravel, .NET, and Vue.js
+* 🛠️ Currently tinkering with: 3D printing and custom hardware console projects
+* 🎯 Goals: Write clean, scalable architectures and keep delivering meaningful solutions
+* 🏎️ And ... I enjoy automotive maintenance and setting up custom gaming environments
 
----
+## I code with
 
-### Tech
-
-**Backend**
-`PHP` `Laravel` `C#` `.NET` `REST APIs` `Eloquent`
-
-**Frontend**
-`Vue.js` `TypeScript` `Inertia.js` `Vite`
-
-**Data & Infrastructure**
-`MySQL` `MariaDB` `MongoDB` `Redis` `Docker`
-
-**AI**
-`LLMs` `RAG` `Semantic Search` `Document Processing`
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,vue,ts,mysql,redis,docker" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-### What I build
+## GitHub Metrics
 
-* Modern web applications and APIs
-* Legacy system modernization
-* Laravel & .NET backends
-* Vue.js frontends
-* AI-powered search and document processing
-* Reusable developer tools and open-source packages
-
----
-
-### Featured Projects
-
-🔹 **[Laravel Request Filters](https://github.com/ca-santos/laravel-request-filters)**
-Flexible request filtering for Laravel applications.
-
-🔹 **[Laravel Model Utils](https://github.com/ca-santos/laravel-model-utils)**
-Utilities for working with Laravel Eloquent models.
-
-🔹 **[Laravel Class Discovery](https://github.com/ca-santos/laravel-class-discovery)**
-Dynamic class discovery for Laravel/PHP applications.
-
----
-
-### Currently
-
-🌎 Working remotely with international teams
-💻 Laravel · .NET · Vue.js
-🤖 Exploring AI, RAG & semantic search
-📦 Building open-source tools
-
----
-
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/ca-santos)
+<!-- This SVG is generated automatically by lowlighter/metrics via GitHub Actions -->
+<img src="https://raw.githubusercontent.com/ca-santos/ca-santos/main/github-metrics.svg" alt="Metrics" width="100%">
