@@ -12,7 +12,5 @@ My name is Cauê and I'm a Senior Full Stack Software Engineer from 🇧🇷 Bra
 ## I code with
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,vue,ts,mysql,redis,docker" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,vue,ts,mysql,redis,docker" alt="My Skills" />
 </p>
